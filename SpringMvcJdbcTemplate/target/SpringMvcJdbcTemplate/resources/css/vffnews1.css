@@ -1,0 +1,109 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+.mid_content_info_contents {
+    _height: auto;
+    width: 120%;
+    _position: relative;
+    _left: 1px;
+    _margin-left: 250px;
+    _margin-right: 100px;
+}
+
+#mid_content1 {
+    _border-bottom: 1px solid #d9d9d9;
+    _background: #e8ebf1;
+    _height: 300px;
+    height: calc(100% - 240px);
+    _overflow: auto;
+}
+.container1 {
+    margin: auto;
+    width: 1000px;
+    _margin-left: 20%;
+    _width: 70%;
+    _background-color: red;
+}
+.container_menu {
+    width: 100px;
+    height: 200px;
+    background-color: blue;
+    _position: relative;
+    _top: 10px;
+}
+.mid_content_info_menu {
+    _height: auto;
+    height: calc(100% - 240px);
+    width: 220px;
+}
+.mid_content_info1_menu {
+	height: calc(100% - 240px);
+    float: left;
+    font-size: 13px;
+    margin-top: 2px;
+    margin-bottom: 19px;
+}
+.mid_content_space1_menu {
+    margin-right: 40px;
+    margin-top: 10px;
+}
+.ads {
+    margin-left: 30%;
+}
+.mid_content_space1_main {
+    _margin-left: 1px;
+    _-webkit-border-radius: 10%;
+    _-moz-border-radius: 10%;
+    padding-left: 17%;
+}
+.mid_content_info_img {
+}
+.mid_content_info_item {
+    width: 99%;
+    position: relative;
+    _top: 60%;
+    left: 1%;
+    _margin-left: 260px;
+    _margin-top: 240px;
+}
+.mid_content_info1 {
+    float: left;
+    font-size: 13px;
+    margin-top: 2px;
+    width: 220px;
+    margin-bottom: 19px;
+}
+
+.mid_content_info1 h2 {
+    font-size: 15px;
+    font-weight: bold;
+    height: 28px;
+    margin-bottom: 15px;
+    padding: 12px 0 0 59px;
+}
+
+.mid_content_info1 p {
+    color: #363636;
+    line-height: 20px;
+    margin-bottom: 22px;
+}
+
+.mid_content_info1 a {
+    color: #2aacc8;
+}
+.mid_content_info1 a img {
+    margin: 0 8px 1px 0;
+}
+.mid_content_info1 a:hover {
+    text-decoration: underline;
+}
+.mid_content_space1 {
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.user-tumb {
+    width: 16.8em;
+    height: 10em;
+}

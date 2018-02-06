@@ -1,0 +1,75 @@
+
+.table-grey {
+    background: #d7d7d7;
+    margin: 10px 0;
+}
+.table-grey, .tb-euroInfo table {
+    max-width: 600px!important;
+}
+div {
+    display: block;
+}
+
+.tb-euroInfo {
+    background: #78b43d;
+    padding: 2px;
+    _border: 1px solid #b4bac5;
+    max-width: 600px!important;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.euro-team {
+    font-size: 16px;
+    color: #666;
+    font-weight: 700;
+    padding: 7px 0;
+}
+.euro-tiso {
+    font-family: "Times New Roman",Times,serif;
+    color: #f20000;
+    font-size: 55px;
+    font-weight: 700;
+    padding: 0 0 10px;
+    letter-spacing: 10px;
+}
+.colCenter img {
+    max-width: 420px;
+}
+.news-image {
+    max-width: 500px!important;
+}
+img {
+    border: 0;
+}
+* {
+    font-size: 12px;
+}
+.euroTb-sub {
+    background: #adadad;
+    border-top: #adadad solid 1px;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.euroTb-cell-G td {
+    background: #ebebeb;
+    padding: 5px 10px;
+    font-weight: 700;
+    color: #333;
+}
+.euroTb-cell-W td {
+    background: #fff;
+    padding: 5px 10px;
+    font-weight: 700;
+    color: #333;
+}

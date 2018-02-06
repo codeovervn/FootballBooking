@@ -1,0 +1,52 @@
+
+element.style {
+    display: block;
+    font-size: 20px;
+}
+.baiviet-title {
+    color: #5ca038;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 0;
+    display: inline;
+}
+.baiviet-ngay {
+    font-size: 11px;
+    padding-bottom: 5px;
+}
+.baiviet-sukien {
+    color: #666;
+    font-size: 11px;
+    padding-bottom: 7px;
+}
+.baiviet-sukien a {
+    color: #666;
+    font-size: 11px;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+}
+.padB5 {
+    padding-bottom: 5px;
+}
+.baiviet-sapo {
+    font-weight: 700;
+    text-align: justify;
+    padding-right: 10px;
+    margin: 0;
+}
+p {
+    line-height: 1.4;
+}
+.clear {
+    clear: both;
+}
+.padT5 {
+    padding-top: 5px;
+}

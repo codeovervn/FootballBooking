@@ -1,0 +1,15 @@
+
+.colCenter {
+    float: left;
+    width: 534px;
+    margin: 0 5px 0 400px;
+    min-height: 100px!important;
+}
+.nguontin {
+    text-align: right;
+    padding: 5px 0 10px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: #333;
+}
